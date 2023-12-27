@@ -10,6 +10,9 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+## Modelo Entidad Realacion.
+![modeloER](https://github.com/edSoto02/Sistema-Almacen/assets/106222946/7c426640-8b9b-432e-bcbc-d22a9936e906)
+ 
 ## Creacion de la base de datos.
 ![screenshot1](https://github.com/edSoto02/Sistema-Almacen/assets/106222946/7c4f69d4-e9b3-44dd-b18a-766860c44606)
 
